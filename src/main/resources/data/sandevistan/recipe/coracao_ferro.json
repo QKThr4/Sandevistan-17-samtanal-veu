@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IKI",
+    "SGS",
+    "IBI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "K": {
+      "item": "sandevistan:chip"
+    },
+    "S": {
+      "item": "sandevistan:servo_motor"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    },
+    "B": {
+      "item": "sandevistan:bateria_energia"
+    }
+  },
+  "result": {
+    "id": "sandevistan:coracao_ferro",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ISI",
+    "PXP",
+    "IBI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "sandevistan:servo_motor"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "X": {
+      "item": "minecraft:iron_boots"
+    },
+    "B": {
+      "item": "sandevistan:bateria_energia"
+    }
+  },
+  "result": {
+    "id": "sandevistan:pernas_ciberneticas",
+    "count": 1
+  }
+}
